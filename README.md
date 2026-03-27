@@ -33,8 +33,3 @@ The platform supports **Agility, Hoopers, Nosework, and Obedience** as separate 
 - Building **real-time systems** for live event scoring
 - Managing complexity in **large TypeScript monorepos**
 - Writing tests at every level — **Vitest, Cypress, Playwright**
-
-
-## Get in touch
-
-![Static Badge](https://img.shields.io/badge//LINKEDIN-renata-gajzlerowicz-77032277-blue)
