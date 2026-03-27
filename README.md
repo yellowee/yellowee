@@ -1,6 +1,14 @@
 # Hey, I’m Renata <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />
 
-Full-stack developer at **Agilix**, building products that people (and dogs) love.
+<p>
+  Full-stack developer at 
+  <strong>
+    <a href="https://agilix.dog">
+      <img src="./assets/agilix-logo.svg" height="17" style="vertical-align: -3px; margin-right: 6px;" />
+      Agilix
+    </a>
+  </strong>, building products that people (and dogs) love 🐶
+</p>
 
 ## What I’m working on
 
