@@ -45,4 +45,5 @@ The platform supports **Agility, Hoopers, Nosework, and Obedience** as separate 
 - Designing and shipping **end-to-end features**
 - Building **real-time systems** for live event scoring
 - Managing complexity in **large TypeScript monorepos**
+- **Unique holistic QA perspective** due to my extensive experience as a software testeer
 - Writing tests at every level — **Vitest, Cypress, Playwright**
