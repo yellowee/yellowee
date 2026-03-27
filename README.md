@@ -37,5 +37,4 @@ The platform supports **Agility, Hoopers, Nosework, and Obedience** as separate 
 
 ## Get in touch
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-**/renata-gajzlerowicz-77032277**
+![Static Badge](https://img.shields.io/badge//LINKEDIN-renata-gajzlerowicz-77032277-blue)
