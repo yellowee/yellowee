@@ -12,7 +12,12 @@
 
 ## What I’m working on
 
-🐕 **[Agilix](https://github.com/hackerman-consulting/agilix)** — a platform for managing dog sport competitions across Poland. Organizers create events, participants register their dogs, and everyone follows live scoring in real time. I’ve contributed across the full stack — from GraphQL API design to real-time competition dashboards.
+<p>   <strong>
+    <a href="https://agilix.dog">
+      <img src="./assets/agilix-logo.svg" height="28" style="vertical-align: -8px; margin-right: 8px;" />
+      Agilix
+    </a>
+  </strong> — a platform for managing dog sport competitions across Poland. Organizers create events, participants register their dogs, and everyone follows live scoring in real time. I’ve contributed across the full stack — from GraphQL API design to real-time competition dashboards.</p>
 
 The platform supports **Agility, Hoopers, Nosework, and Obedience** as separate modules within a 17-package monorepo serving thousands of competitors.
 
