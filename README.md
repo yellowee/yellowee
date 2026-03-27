@@ -1,4 +1,4 @@
-# Hey, I’m Renata 👋
+# Hey, I’m Renata <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />
 
 Full-stack developer at **Agilix**, building products that people (and dogs) love.
 
