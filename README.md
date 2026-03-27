@@ -4,10 +4,10 @@
   Full-stack developer at 
   <strong>
     <a href="https://agilix.dog">
-      <img src="./assets/agilix-logo.svg" height="17" style="vertical-align: -3px; margin-right: 6px;" />
+      <img src="./assets/agilix.svg" height="24" style="vertical-align: -6px; margin-right: 6px;" />
       Agilix
     </a>
-  </strong>, building products that people (and dogs) love 🐶
+  </strong>, building products that people (and dogs) love.
 </p>
 
 ## What I’m working on
