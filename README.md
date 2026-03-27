@@ -7,7 +7,7 @@ Full-stack developer at Agilix, building products that people (and dogs) love.
 ## What I’m working on
 
 <p>   <strong>
-    <a href="https://agilix.dog">
+    <a href="https://agilix.dog/competitions">
       <img src="./assets/agilix-logo.svg" height="28" style="vertical-align: -8px; margin-right: 8px;" />
       Agilix
     </a>
